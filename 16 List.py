@@ -9,6 +9,8 @@ print(names)
 ## Find the largest number in the list
 
 list = [1, 2, 3, 6, 11, 3]
-Big =0
+Big =list[0]
 for items in list:
-    if big<
+    if Big <items:
+        Big = items
+print(Big)
