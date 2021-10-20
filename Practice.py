@@ -28,9 +28,4 @@ quit - to exit
         break
 
     else:
-        print("Invalid! Input try help command")
-
-
-
-
-        
+        print("Invalid! Input try help command")      
